@@ -10,7 +10,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "MS-CEINTL.vscode-language-pack-fr",
         "VisualStudioExptTeam.vscodeintellicode",
-        "ms-python.python"
+        "ms-python.python",
+        "golang.Go"
     ]
 }
