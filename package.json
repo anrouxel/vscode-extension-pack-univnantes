@@ -3,7 +3,7 @@
     "name": "univnantes",
     "displayName": "UnivNantes",
     "description": "Extension Pack for Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -14,6 +14,7 @@
         "MS-CEINTL.vscode-language-pack-fr",
         "VisualStudioExptTeam.vscodeintellicode",
         "ms-python.python",
-        "golang.Go"
+        "golang.Go",
+        "xdebug.php-pack"
     ]
 }
