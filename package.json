@@ -15,6 +15,7 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "ms-python.python",
         "golang.Go",
-        "xdebug.php-pack"
+        "xdebug.php-pack",
+        "alexcvzz.vscode-sqlite"
     ]
 }
