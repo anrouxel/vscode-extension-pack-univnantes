@@ -5,7 +5,7 @@
     "description": "Extension Pack for Visual Studio Code",
     "version": "0.0.6",
     "engines": {
-        "vscode": "^1.69.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Extension Packs"
