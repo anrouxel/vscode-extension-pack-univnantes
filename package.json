@@ -16,6 +16,7 @@
         "ms-python.python",
         "golang.Go",
         "xdebug.php-pack",
-        "alexcvzz.vscode-sqlite"
+        "alexcvzz.vscode-sqlite",
+        "Oracle.oracledevtools"
     ]
 }
