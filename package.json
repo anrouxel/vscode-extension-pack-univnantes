@@ -3,7 +3,7 @@
     "name": "univnantes",
     "displayName": "UnivNantes",
     "description": "Extension Pack for Visual Studio Code",
-    "version": "0.0.8",
+    "version": "0.0.10",
     "engines": {
         "vscode": "^1.60.0"
     },
