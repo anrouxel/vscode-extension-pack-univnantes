@@ -3,7 +3,7 @@
     "name": "univnantes",
     "displayName": "UnivNantes",
     "description": "Extension Pack for Visual Studio Code",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -18,6 +18,7 @@
         "xdebug.php-pack",
         "alexcvzz.vscode-sqlite",
         "Oracle.oracledevtools",
-        "VisualStudioExptTeam.intellicode-api-usage-examples"
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "bmewburn.vscode-intelephense-client"
     ]
 }
