@@ -13,12 +13,11 @@
     "extensionPack": [
         "MS-CEINTL.vscode-language-pack-fr",
         "VisualStudioExptTeam.vscodeintellicode",
-        "ms-python.python",
-        "golang.Go",
-        "xdebug.php-pack",
-        "alexcvzz.vscode-sqlite",
-        "Oracle.oracledevtools",
+        "dbaeumer.vscode-eslint",
+        "ms-dotnettools.csharp",
         "VisualStudioExptTeam.intellicode-api-usage-examples",
-        "bmewburn.vscode-intelephense-client"
+        "ms-vscode.vscode-typescript-next",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.blazorwasm-companion",
     ]
 }
